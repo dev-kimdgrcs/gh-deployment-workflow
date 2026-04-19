@@ -1,0 +1,12 @@
+title: Karmela Meliza Deogracias
+url: "https://dev-kimdgrcs.github.io"
+baseurl: "/gh-deployment-workflow"
+
+# Build settings
+plugins:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - docs/
